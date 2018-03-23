@@ -1,0 +1,19 @@
+{
+  "name": "fixed-size-rolling-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmukherjeee/fixed-size-rolling-array.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmukherjeee/fixed-size-rolling-array/issues"
+  },
+  "homepage": "https://github.com/pmukherjeee/fixed-size-rolling-array#readme"
+}
