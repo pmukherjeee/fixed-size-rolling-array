@@ -11,6 +11,10 @@ class RollingArray {
     this.arr.unshift(item)
   }
 
+  contains (item) {
+    return this.arr.indexOf(item) !== -1
+  }
+
   toArray () {
     return this.arr
   }
