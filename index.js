@@ -12,7 +12,7 @@ class RollingArray {
   }
 
   contains (item) {
-    return this.arr.indexOf(item) !== -1
+    return this.arr.includes(item)
   }
 
   toArray () {
